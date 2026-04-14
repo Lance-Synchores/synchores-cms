@@ -1,0 +1,10 @@
+export { FinalCTASection } from "./FinalCTASection";
+export { DiscountBadgeCard } from "./components/DiscountBadgeCard";
+export { HeadlineSubtitleCard } from "./components/HeadlineSubtitleCard";
+export { CTAButtonsCard } from "./components/CTAButtonsCard";
+export { TrustItemsCard } from "./components/TrustItemsCard";
+export { FooterStripCard } from "./components/FooterStripCard";
+export type { DiscountBadgeData } from "./components/DiscountBadgeCard";
+export type { HeadlineSubtitleData } from "./components/HeadlineSubtitleCard";
+export type { CTAButtonsData } from "./components/CTAButtonsCard";
+export type { FooterStripData } from "./components/FooterStripCard";
